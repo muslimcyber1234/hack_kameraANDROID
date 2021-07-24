@@ -11,9 +11,9 @@ cara menjalankanya di termux:
 7. git clone https://github.com/muslimcyber1234/hack_kameraANDROID.git
 8. cd $HOME
 9  ls
-9. cd hack_kameraANDROID
-10.ls
-11.bash grabcam.sh
+10. cd hack_kameraANDROID
+11. ls
+12. bash grabcam.sh
 
 cara menjalankan di terminal Linux
 
