@@ -13,7 +13,7 @@ cara menjalankanya di termux:
 9  ls
 10. cd hack_kameraANDROID
 11. ls
-12. bash grabcam.sh
+12. bash hack_kameraHANDPHONE.sh
 
 cara menjalankan di terminal Linux
 
@@ -22,4 +22,4 @@ cara menjalankan di terminal Linux
 3. ls
 4. cd hack_kameraANDROID
 5. ls
-6. bash hack_kameraANDROID.sh
+6. bash hack_kameraHANDPHONE.sh
