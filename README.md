@@ -9,17 +9,13 @@ cara menjalankanya di termux:
 5. pkg install git -y
 6. pip install lolcat
 7. git clone https://github.com/muslimcyber1234/hack_kameraANDROID.git
-8. cd $HOME
-9  ls
-10. cd hack_kameraANDROID
-11. ls
-12. bash hack_kameraHANDPHONE.sh
+9. cd hack_kameraANDROID
+10. ls
+11. bash hack_kameraHANDPHONE.sh
 
 cara menjalankan di terminal Linux
 
 1. git clone https://github.com/muslimcyber1234/hack_kameraANDROID.git
-2. cd $HOME
+2. cd hack_kameraANDROID
 3. ls
-4. cd hack_kameraANDROID
-5. ls
-6. bash hack_kameraHANDPHONE.sh
+4. bash hack_kameraHANDPHONE.sh
