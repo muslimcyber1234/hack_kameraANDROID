@@ -11,11 +11,11 @@ cara menjalankanya di termux:
 7. git clone https://github.com/muslimcyber1234/hack_kameraANDROID.git
 9. cd hack_kameraANDROID
 10. ls
-11. bash hack_kamera_HP.sh
+11. bash hack_kameraHANDPHONE.sh
 
 cara menjalankan di terminal Linux
 
 1. git clone https://github.com/muslimcyber1234/hack_kameraANDROID.git
 2. cd hack_kameraANDROID
 3. ls
-4. bash hack_kamera_HP.sh
+4. bash hack_kamerHANDPHONE.sh
